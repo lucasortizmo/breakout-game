@@ -96,7 +96,7 @@ int lives;
 
 void setup () {
   size(1000, 700);
-  mode = GAMEOVER; 
+  mode = INTRO; 
 
   // images
   imageMode(CENTER);
